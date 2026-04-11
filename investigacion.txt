@@ -1,0 +1,58 @@
+
+Análisis comparativo de modelos de Machine Learning y 
+Series de Tiempo para la optimización del pronóstico de demanda de inventarios en empresas comercializadoras
+
+Bruno Valentin Vigil Mogollon
+Albert Raul Urcuhuaranga Cachay
+
+
+Taller de Investigación Sistemas
+
+2026
+
+
+
+Objetivo general y específicos 
+
+Objetivo general:
+
+Determinar el modelo de predicción con mayor nivel de precisión mediante el análisis comparativo 
+entre algoritmos para  optimizar el pronóstico de demanda de inventarios en una empresa comercializadora.
+
+Objetivo específico:
+
+Diagnosticar el estado actual de los datos históricos de ventas de la organización
+para identificar patrones y valores anormales.
+
+Implementar modelos de series de tiempo y algoritmos de machine learning
+utilizando lenguajes de programación de código abierto.
+
+Evaluar el rendimiento de los modelos implementados mediante el uso de métricas de error estadístico
+
+
+Resumen
+
+Esta investigación aborda la ineficiencia en la gestión de inventarios del sector comercial,
+donde los pronósticos imprecisos generan pérdidas por stock inmovilizado o desabastecimiento. 
+El objetivo es determinar el modelo de predicción más preciso mediante un análisis comparativo entre 
+algoritmos de Machine Learning y Series de Tiempo.
+La metodología comprende el diagnóstico de datos históricos para 
+identificar patrones y la implementación de modelos en Python.
+El rendimiento se medirá a través de métricas de error estadístico (MAE y RMSE),
+permitiendo identificar la tecnología con mayor confiabilidad.
+El resultado final proporcionará una base científica para mejorar la toma de decisiones estratégicas.
+
+
+
+Referencias bibliográficas
+
+[1] V. Ibañez Quispe, “Modelos de series de tiempo con machine learning del costo de consumo de agua comercial y doméstico de la región de Puno: 2015–2020”, Tesis doctoral, Universidad Nacional del Altiplano, Escuela de Posgrado, Puno, Perú, 2025.
+[2] A. M. Lira Pacheco y N. L. Tinoco Ricapa, “Sistema basado en Machine Learning para predicción de inventarios para una empresa del sector industrial”, Trabajo de suficiencia profesional, Universidad Peruana de Ciencias Aplicadas (UPC), Lima, Perú, 2025.
+[3] J. R. Sernaque Silva y R. L. Figueroa Jiménez, “Modelo predictivo con Machine Learning para la optimización de la gestión de inventarios de la empresa Next In Corporation E.I.R.L.”, Tesis de pregrado, Universidad Privada del Norte, Trujillo, Perú, 2024.
+[4] D. Yanque et al., “[Artículo sobre gestión e inventarios / pronóstico en empresas]”, SCIÉNDO, vol. 26, no. 2, pp. 191–197, 2023. doi: 10.17268/sciendo.2023.028. 
+
+[1] https://repositorio.unap.edu.pe/items/1d7f92a0-5b21-4396-87bd-bf555b3d9cff
+[2] https://repositorio.upn.edu.pe/item/43730ef0-47b2-4a8d-80d1-74f61bd98816
+[3] https://repositorioacademico.upc.edu.pe/handle/10757/687929
+[4] https://revistas.unitru.edu.pe/index.php/SCIENDO/article/view/5334
+
